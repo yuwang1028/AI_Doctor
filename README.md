@@ -1,4 +1,6 @@
-# README: Setting Up Your Environment with Pipenv
+# README: 
+🚀 Overview
+
 
 ## Prerequisite: Install Pipenv
 Follow the official Pipenv installation guide to set up Pipenv on your system:  
@@ -15,6 +17,8 @@ Run the following commands in your terminal (assuming Pipenv is already installe
 pipenv install langchain langchain_community langchain_huggingface faiss-cpu pypdf
 pipenv install huggingface_hub
 pipenv install streamlit
+```
+
 
 
 
